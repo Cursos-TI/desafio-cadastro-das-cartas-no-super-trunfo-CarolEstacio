@@ -94,6 +94,7 @@
  %s: Imprime uma cadeia (string) de caracteres. 
  */
 
+ 
   return 0;
 
  }
